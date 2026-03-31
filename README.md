@@ -98,16 +98,27 @@ CORS Headers – Cross-origin communication
 
 
 finance-ai-app/
+
 │
+
 ├── backend/              # Django backend
+
 │   ├── api/
+
 │   ├── manage.py
+
 │
+
 ├── frontend/             # Next.js frontend
+
 │   ├── app/
+
 │   ├── components/
+
 │   ├── services/
+
 │
+
 └── README.md
 
 
